@@ -6,12 +6,12 @@ Repositories and versions to use:
 ## Azadi RISC-V SoC
 Azadi SoC after it's first tapeout in MPW-two.
 
-Please stick to version v0.0.0 release
-(commit hash: c4b32375365bf18e352f6ee6c102ca19785f5f42)
+Please stick to version v0.0.1 release
+(commit hash: `7a9ffe84d3ff1eeba20a23b0a386c8a03c60e2c6`)
 ```
 git clone https://github.com/merledu/azadi-new.git
 cd azadi-new
-git checkout v0.0.0-c4b32375
+git checkout v0.0.1-7a9ffe84
 ```
 Note: Until the changes to the trace port for floating-point signals are merged in merledu/azadi-new, use [this fork](https://github.com/zeeshanrafique23/azadi-new) instead.
 
